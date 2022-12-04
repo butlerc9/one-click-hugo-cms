@@ -8,8 +8,6 @@ contact_entries:
     text: "https://www.linkedin.com/in/cormac-butler/"
 ---
 
-I'd love to hear any suggestions
-
 I'd love to get in touch with you and hear your ideas and
 questions. There's always lots of improvements to be made. 
 
