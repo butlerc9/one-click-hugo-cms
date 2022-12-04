@@ -3,9 +3,9 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Github
-    text: "[Follow me on Github](https://github.com/butlerc9)"
+    text: "https://github.com/butlerc9"
   - heading: LinkedIn
-    text: "[Find me on LinkedIn](https://www.linkedin.com/in/cormac-butler/)"
+    text: "https://www.linkedin.com/in/cormac-butler/"
 ---
 
 I'd love to hear any suggestions
